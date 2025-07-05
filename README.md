@@ -4,11 +4,11 @@ Great! Here's the **final version of the README** you can directly add to your G
 
 ---
 
-# 📊 Student Performance Data Visualization
+#  Student Performance Data Visualization
 
 This project is part of my Data Science internship. The main objective was to perform a basic data visualization task to understand the distribution of student performance scores using histograms.
 
-## 📁 Dataset
+##  Dataset
 
 The dataset used is `StudentsPerformance.csv`, which contains information on:
 
@@ -18,19 +18,19 @@ The dataset used is `StudentsPerformance.csv`, which contains information on:
 * Test preparation course
 * Scores in Math, Reading, and Writing
 
-## 📈 Task Description
+##  Task Description
 
 * Loaded the dataset using `pandas`
 * Created a histogram using `seaborn` to visualize the **distribution of math scores**
 * Added a **KDE (Kernel Density Estimate)** to identify the shape of the distribution
 
-## 🔍 Key Insights
+## Key Insights
 
 * Majority of students scored between **60 and 80** in math
 * The distribution shows a **slight left skew**, indicating better performance overall
 * KDE curve helped in identifying performance peaks clearly
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Jupyter Notebook
