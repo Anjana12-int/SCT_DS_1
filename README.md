@@ -1,8 +1,4 @@
-# SCT_DS_1
-Task 1 of Data Science Internship  SkillCraft Technology
-Great! Here's the **final version of the README** you can directly add to your GitHub repository as a `README.md` file:
 
----
 
 #  Student Performance Data Visualization
 
